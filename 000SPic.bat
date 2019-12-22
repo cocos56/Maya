@@ -1,0 +1,1 @@
+python3 ../ShrinkPic.py
